@@ -1,1 +1,1 @@
-# odin_recipes
+Practice website to display recipes and to hone my skills in HTML.
