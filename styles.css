@@ -1,0 +1,22 @@
+h1, h2{
+    color: orange;
+    font-weight: 1000;
+}
+
+h1 {
+    text-align: center;
+}
+
+* {
+    font-family: "Garamond", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 1365px;
+}
+
+.button{
+    font-size: 32px;
+    background-color: white;
+}
